@@ -11,11 +11,12 @@ I specialize in building and deploying machine learning models to solve real-wor
 - **Technical Leadership:** Supervising instructor teams and developing industry-standard training content.
 
 ---
-
-###  Featured Projects
-- **[AI-Based MITM Attack Detection](https://drive.google.com/drive/folders/1o3hB0X_ulVq7IWILwVG4Kgld2YhzcbaF?usp=drive_link):** Designed an AI solution to protect IoT networks (MQTT) from cyber attacks.
-- **[Car Price Prediction](https://drive.google.com/drive/folders/1Vzsnksx6lUX-q-uOVYBf4eXQqqm0UPV9?usp=drive_link):** A machine learning model using regression to predict prices based on car features. 
-- **[Call Center Performance Dashboard](https://www.behance.net/gallery/240836281/Call-Center-Performance-Analytics-Dashboard):** End-to-end Power BI dashboard for tracking KPI accuracy and agent productivity.
+### 📊 Featured Projects
+- **[AI-Based MITM Attack Detection](https://github.com/essamlhem/AI-IoT-Attack-Detection):** Designed an AI solution to protect IoT networks (MQTT) from cyber attacks using Machine Learning.
+- **[HR-Analytics-Employee-Data](https://github.com/essamlhem/HR-Analytics-Employee-Data):** Comprehensive analysis of workforce demographics, attrition rates, and departmental distribution using Power BI.
+- **[Call Center Performance Dashboard](https://github.com/essamlhem/Call-Center-Performance-Analysis):** End-to-end Power BI reporting system for tracking KPI accuracy, service levels, and agent productivity.
+- **[Adidas US Sales Analysis](https://github.com/essamlhem/Adidas-US-Sales-Analysis):** Interactive sales dashboard focusing on regional performance, product profitability, and seasonal trends.
+- **[Web Scraper & Data Extraction](https://github.com/essamlhem/football-league-scraper):** Python-based automation tool for extracting and cleaning data from multiple web platforms for analysis.
 
 ---
 
