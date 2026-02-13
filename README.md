@@ -11,7 +11,7 @@ I specialize in building and deploying machine learning models to solve real-wor
 - **Technical Leadership:** Supervising instructor teams and developing industry-standard training content.
 
 ---
-### 📊 Featured Projects
+###  Featured Projects
 - **[AI-Based MITM Attack Detection](https://github.com/essamlhem/AI-IoT-Attack-Detection):** Designed an AI solution to protect IoT networks (MQTT) from cyber attacks using Machine Learning.
 - **[HR-Analytics-Employee-Data](https://github.com/essamlhem/HR-Analytics-Employee-Data):** Comprehensive analysis of workforce demographics, attrition rates, and departmental distribution using Power BI.
 - **[Call Center Performance Dashboard](https://github.com/essamlhem/Call-Center-Performance-Analysis):** End-to-end Power BI reporting system for tracking KPI accuracy, service levels, and agent productivity.
@@ -31,3 +31,8 @@ I specialize in building and deploying machine learning models to solve real-wor
 - **LinkedIn:** [Essa Mlhem](https://www.linkedin.com/in/essa-mlhem-782386306/) 
 - **Behance:** [Portfolio Showcase](https://www.behance.net/essamlhem) 
 - **Email:** essamlhem10@gmail.com 
+---
+
+###  My GitHub Stats
+![Essa's GitHub stats](https://github-readme-stats.vercel.app/api?username=essamlhem&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essamlhem&layout=compact&theme=radical)
