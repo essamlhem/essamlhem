@@ -1,5 +1,5 @@
 # Hi, I'm Essa Mlhem 
-**AI & Data Solutions Specialist | [cite_start]Communications & Electronics Engineer** 
+**AI & Data Solutions Specialist | Communications & Electronics Engineer** 
 
 I specialize in building and deploying machine learning models to solve real-world business challenges.With a strong background in technical training and data analytics, I transform raw data into actionable insights.
 
