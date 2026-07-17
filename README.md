@@ -29,7 +29,6 @@ I specialize in building and deploying machine learning models to solve real-wor
 
 ###  Let's Connect
 - **LinkedIn:** [Essa Mlhem](https://www.linkedin.com/in/essa-mlhem-782386306/) 
-- **Behance:** [Portfolio Showcase](https://www.behance.net/essamlhem) 
 - **Email:** essamlhem10@gmail.com 
 ---
 
